@@ -1,0 +1,3 @@
+show parameter broker
+dgmgrl /
+show database verbose db_name;
