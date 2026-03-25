@@ -1,1 +1,4 @@
 du -a /app/oracle | sort -n -r | head -n 20
+
+remove blak lines from a text file in vi:
+:g/^$/d
