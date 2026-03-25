@@ -1,0 +1,5 @@
+trace failed login attempts:
+alert system set events '1017 trace name errorstack level 10';
+check alert log for error trace file
+alter system set events '1017 trace name errorstack off';
+
