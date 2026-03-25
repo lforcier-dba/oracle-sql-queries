@@ -1,0 +1,8 @@
+How to add SSH key in Secure CRT?
+Generating your key with SecureCRT:
+Start SecureCRT.
+Under the Tools menu, select Create Public Key.
+This will open the Key Generation Wizard. ...
+In the Key type dropdown, select RSA and click Next.
+Enter a strong passphrase in the Passphrase box and then enter it again in the Confirm Passphrase box. ...
+Enter the key length.
