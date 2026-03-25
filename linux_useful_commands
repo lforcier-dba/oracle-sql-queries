@@ -1,0 +1,1 @@
+du -a /app/oracle | sort -n -r | head -n 20
